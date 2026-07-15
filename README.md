@@ -1,6 +1,3 @@
-# AutoPrepX
-A smart, high-performance parallel data preprocessing framework with a real-time animated dashboard UI
-
 # ⚡ AutoPrepX: Smart Parallel Data Preprocessing Engine
 
 AutoPrepX is a high-performance, modular data preprocessing platform designed to accelerate machine learning pipelines. By leveraging parallel execution (concurrent multiprocessing), it slashes compute times compared to standard sequential cleaning pipelines.
